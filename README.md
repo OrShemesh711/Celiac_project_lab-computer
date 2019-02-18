@@ -1,5 +1,4 @@
-# Celiac_project_or_all
-Lab &amp; my computer
+# Celiac_project_or_all [ lab & my computer]
 [Naive B cell project]
 
 ## Introduction:
